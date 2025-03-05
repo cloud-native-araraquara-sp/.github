@@ -1,12 +1,22 @@
-## Hi there 👋
+# Cloud Native Araraquara - SP
 
-<!--
+O Cloud Native Araraquara e Região é um capítulo oficial da Cloud Native Computing Foundation (CNCF), dedicado a impulsionar a adoção de tecnologias Cloud Native e fortalecer a comunidade de profissionais, entusiastas e empresas do setor.
 
-**Here are some ideas to get you started:**
+## 🔹 O que fazemos?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+✅ Meetups presenciais e virtuais – Discussões sobre tendências, melhores práticas e casos de sucesso no universo Cloud Native.
+
+✅ Workshops e palestras – Conteúdo técnico aprofundado com especialistas da área.
+
+✅ Comunidade ativa e colaborativa – Incentivamos contribuições para projetos Open Source e compartilhamos conhecimento para fortalecer o ecossistema local.
+
+
+## 🌍 Por que participar?
+
+🚀 Conecte-se com profissionais da região e amplie sua rede.
+
+📚 Mantenha-se atualizado com as últimas tendências do setor.
+
+💡 Aprenda, compartilhe e contribua para a evolução do Cloud Native.
+
+**Junte-se a nós e seja parte da transformação digital em Araraquara e região com as tecnologias Cloud Native!** 🚀☁️
